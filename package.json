@@ -18,7 +18,9 @@
   },
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
+    "gulp-jshint": "^2.0.4",
     "jasmine": "^2.6.0",
+    "jshint": "^2.9.5",
     "sinon": "^2.3.5"
   }
 }
